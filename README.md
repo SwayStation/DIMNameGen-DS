@@ -32,5 +32,5 @@ If you would prefer to have the name in all caps, first remove the Bandai sprite
 
 
 Future updates:
-- Make GUI for macOS
-- Create batch file for macOS
+- Create GUI
+- Create batch file for bulk creating names (macOS)
