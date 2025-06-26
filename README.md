@@ -22,6 +22,17 @@ Usage: DIMNameGen.py [-h] [-n NAME]
 <br />
 <br />
 
+## **SwayStation's Fork (DigiScript Mod) v1.0.1 Notes:**
+
+Added a while loop to the main code so you can generate name after name without having to relaunch the app.
+
+
+Future updates:
+- Create GUI
+- Create batch file for bulk creating names (macOS)
+
+<br />
+
 ## **SwayStation's Fork (DigiScript Mod) v1.0.0 Notes:**
 
 Removed the uppercase only font with a new original font called DigiScript.
@@ -29,8 +40,3 @@ DigiScript has both uppecase and lowercase inputs and DIM Name Gen will now outp
 
 If you input a name that is found in the official Bandai sprites database, it will output a name with "Capitilization" in effect in the DigiScript font.
 If you would prefer to have the name in all caps, first remove the Bandai sprite file from the "assets" folder and then input the desired name in all caps.
-
-
-Future updates:
-- Create GUI
-- Create batch file for bulk creating names (macOS)
