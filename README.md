@@ -22,18 +22,21 @@ Usage: DIMNameGen.py [-h] [-n NAME]
 <br />
 <br />
 
-## **SwayStation's Fork (DigiScript Mod) v1.0.1 Notes:**
+## **SwayStation's Fork (DigiScript Mod) Notes:**
 
-Added a while loop to the main code so you can generate name after name without having to relaunch the app.
-
+## **v1.1.0**
+Added a simple GUI.
 
 Future updates:
-- Create GUI
-- Create batch file for bulk creating names (macOS)
+- Text file drag and drop for bulk creating names (Win & macOS)
+- Add multi-font system: DigiScript & official Bandai VB Font
+- Sprite previews
+
+## **v1.0.1** 
+Added a while loop to the main code so you can generate name after name without having to relaunch the app.
 
 <br />
 
-## **SwayStation's Fork (DigiScript Mod) v1.0.0 Notes:**
-
+## **v1.0.0** 
 Removed the uppercase only font with a new original font called DigiScript.
 DigiScript has both uppecase and lowercase inputs and DIM Name Gen will now output whatever you type with case-sensitivity.
