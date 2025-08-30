@@ -32,6 +32,8 @@ Future updates:
 - Add multi-font system: DigiScript & official Bandai VB Font
 - Sprite previews
 
+<br />
+
 ## **v1.0.1** 
 Added a while loop to the main code so you can generate name after name without having to relaunch the app.
 
