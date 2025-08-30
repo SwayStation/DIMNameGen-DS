@@ -37,6 +37,3 @@ Future updates:
 
 Removed the uppercase only font with a new original font called DigiScript.
 DigiScript has both uppecase and lowercase inputs and DIM Name Gen will now output whatever you type with case-sensitivity.
-
-If you input a name that is found in the official Bandai sprites database, it will output a name with "Capitilization" in effect in the DigiScript font.
-If you would prefer to have the name in all caps, first remove the Bandai sprite file from the "assets" folder and then input the desired name in all caps.
