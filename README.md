@@ -24,8 +24,8 @@ Added a font menu that allows you to choose between using the DigiScript font or
 Changed output folder to ~desktop/DIMNameGenDS_output for easier access.
 
 Future updates:
-~~- Add a simple GUI~~
-~~- Add multi-font system: DigiScript & Official Bandai Font~~
+- ~~Add a simple GUI~~
+- ~~Add multi-font system: DigiScript & Official Bandai Font~~
 - Text file drag and drop for bulk creating names (Win & macOS)
 - Sprite previews
 
@@ -35,7 +35,7 @@ Future updates:
 Added a simple GUI.
 
 Future updates:
-~~- Add a simple GUI~~
+- ~~Add a simple GUI~~
 - Add multi-font system: DigiScript & Official Bandai Font
 - Text file drag and drop for bulk creating names (Win & macOS)
 - Sprite previews
