@@ -1,7 +1,8 @@
 # DIM Name Gen DS
 A utility to generate Bandai Vital Bracelet compatible name sprites.
 
-There are two fonts available at this time: 
+There are two fonts available at this time:
+
     1.  DigiScript - a font created by me based on the English stage names on the VB
     2.  Official Bandai font - used in the localized versions of the DIMS
 
