@@ -2,7 +2,7 @@
 A utility to generate Bandai Vital Bracelet compatible name sprites.
 
 There are two fonts available at this time:
-1. DigiScript - a font created by me based on the English stage names on the VB
+1. DigiScript - a reconstructed font created by me and based off of the official English stage names on the VB
 2. Official Bandai font - used in the localized versions of the DIMS
 
 Running the utility by itself will bring up a prompt to type a name. Type in a name and hit enter or click submit. The generated name in the chosen font will be saved into an output folder created on the desktop. (For Windows users who have their Desktop synced with OneDrive, the output folder will appear in the local Desktop located at C:/Users/~/Desktop.)
