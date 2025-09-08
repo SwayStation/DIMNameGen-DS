@@ -41,7 +41,7 @@ Future updates:
 - Update GUI buttons, etc.
 - Sprite previews
 - ~~Add a simple GUI~~
-- ~~Add multi-font system: DigiScript & Official Bandai Font~~
+- ~~Add multi-font system: DigiScript & Official Bandai fonts~~
 - ~~Text file drag and drop for bulk creating names (Win & macOS)~~
 
 <br />
@@ -53,7 +53,7 @@ Future updates:
 - Text file drag and drop for bulk creating names (Win & macOS)
 - Sprite previews
 - ~~Add a simple GUI~~
-- ~~Add multi-font system: DigiScript & Official Bandai Font~~
+- ~~Add multi-font system: DigiScript & Official Bandai fonts~~
 
 <br />
 
@@ -61,7 +61,7 @@ Future updates:
 Added a simple GUI.
 
 Future updates:
-- Add multi-font system: DigiScript & Official Bandai Font
+- Add multi-font system: DigiScript & Official Bandai fonts
 - Text file drag and drop for bulk creating names (Win & macOS)
 - Sprite previews
 - ~~Add a simple GUI~~
@@ -78,7 +78,7 @@ Future updates:
 
 ### **--v1.0.0--**
 Removed the uppercase only font with a new original font called DigiScript.
-DigiScript has both uppecase and lowercase inputs and DIM Name Gen will now output whatever you type with case-sensitivity.
+DigiScript has both uppecase and lowercase inputs and DIM Name Gen will now generate whatever you type with case-sensitivity.
 
 Future Updates:
 - Add a simple GUI
