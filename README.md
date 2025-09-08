@@ -34,7 +34,7 @@ Download v1.x.x.zip and extract the files anywhere.
 ## **Release Notes:**
 
 ### **--v1.3.0--**
-Updated font menu to show actual font lettering. Added drag and drop text for bulk name generating, supporting both .txt and .rtf formats.
+Updated font menu to show actual font lettering. Added a drag and drop text feature for bulk name generating, supporting both .txt and .rtf formats.
 
 Future updates:
 - Add Agero font to font system
