@@ -33,7 +33,7 @@ Download v1.x.x.zip and extract the files anywhere.
 
 ## **Release Notes:**
 
-#### **--v1.3.0--**
+### **--v1.3.0--**
 Updated font menu to show actual font lettering. Added drag and drop text for bulk name generating, supporting both .txt and .rtf formats.
 
 Future updates:
@@ -46,7 +46,7 @@ Future updates:
 
 <br />
 
-#### **--v1.2.0--**
+### **--v1.2.0--**
 Added a font menu that allows you to choose between using the DigiScript font or the Official Bandai Font. Changed output folder to ~desktop/DIMNameGenDS_output for easier access.
 
 Future updates:
@@ -57,7 +57,7 @@ Future updates:
 
 <br />
 
-#### **--v1.1.0--**
+### **--v1.1.0--**
 Added a simple GUI.
 
 Future updates:
@@ -76,7 +76,7 @@ Future updates:
 
 <br />
 
-#### **--v1.0.0--**
+### **--v1.0.0--**
 Removed the uppercase only font with a new original font called DigiScript.
 DigiScript has both uppecase and lowercase inputs and DIM Name Gen will now output whatever you type with case-sensitivity.
 
