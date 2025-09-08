@@ -12,7 +12,7 @@ This utility was written in python and compiled into a stand-alone Windows .exe 
 
 <br/>
 
-To use the python script:
+## To use the python script:
 
 1. Download the DIMNameGen-DS_v1.x.x.zip from the releases page. Extract the files to any folder.
 2. You will need an install of python3, either from https://www.python.org/, from the Windows Store, or using homebrew (macOS).
@@ -23,7 +23,7 @@ To use the python script:
 
 <br />
 
-To compile:
+## To compile:
 Download v1.x.x.zip and extract the files anywhere.
 - On Windows, cd to DimNameGen-DS_v.1.x.x folder and type `pyinstaller DIMNameGenDS.spec`.
 - On macOS, cd to DimNameGen-DS_v.1.x.x folder and type `python3 setup.py py2app`.
@@ -31,9 +31,9 @@ Download v1.x.x.zip and extract the files anywhere.
 <br />
 <br />
 
-RELEASE NOTES:
+## **Release Notes:**
 
-**--v1.3.0--**
+### **--v1.3.0--**
 Updated font menu to show actual font lettering. Added drag and drop text for bulk name generating, supporting both .txt and .rtf formats.
 
 Future updates:
@@ -46,7 +46,7 @@ Future updates:
 
 <br />
 
-**--v1.2.0--**
+### **--v1.2.0--**
 Added a font menu that allows you to choose between using the DigiScript font or the Official Bandai Font. Changed output folder to ~desktop/DIMNameGenDS_output for easier access.
 
 Future updates:
@@ -57,7 +57,7 @@ Future updates:
 
 <br />
 
-**--v1.1.0--**
+### **--v1.1.0--**
 Added a simple GUI.
 
 Future updates:
@@ -68,7 +68,7 @@ Future updates:
 
 <br />
 
-**--v1.0.1--**
+### **--v1.0.1--**
 Added a while loop to the main code so you can generate name after name without having to relaunch the app.
 
 Future updates:
@@ -76,7 +76,7 @@ Future updates:
 
 <br />
 
-**--v1.0.0--**
+### **--v1.0.0--**
 Removed the uppercase only font with a new original font called DigiScript.
 DigiScript has both uppecase and lowercase inputs and DIM Name Gen will now output whatever you type with case-sensitivity.
 
