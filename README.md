@@ -47,7 +47,7 @@ Future updates:
 <br />
 
 ### **--v1.2.0--**
-Added a font menu that allows you to choose between using the DigiScript font or the Official Bandai Font. Changed output folder to ~desktop/DIMNameGenDS_output for easier access.
+Added a font menu that allows you to choose between using the DigiScript font or the Official Bandai font. Changed output folder to ~desktop/DIMNameGenDS_output for easier access.
 
 Future updates:
 - Text file drag and drop for bulk creating names (Win & macOS)
