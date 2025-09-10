@@ -26,12 +26,38 @@ This utility was written in python and compiled into a stand-alone Windows .exe 
 ## To compile:
 Download v1.x.x.zip and extract the files anywhere.
 - On Windows, cd to DimNameGen-DS_v.1.x.x folder and type `pyinstaller DIMNameGenDS.spec`.
-- On macOS, cd to DimNameGen-DS_v.1.x.x folder and type `python3 setup.py py2app`.
+- On macOS, cd to DimNameGen-DS_v.1.x.x folder and type `python3 setup.py py2app`. You may get a "Cannot sign bundle" error. Sign the app with `codesign --force --deep --sign - "dist/DIMNameGen DS.app"`
 
 <br />
 <br />
 
 ## **Release Notes:**
+
+### **--v1.3.2--**
+Reverted the size of the DigiScript font while maintaining the top margin. Also fixed some spacing issues with the lowercase "g" letter. Generated names in DigiScript are back to the original font size.
+
+Future updates:
+- Add Agero font to font system
+- Update GUI buttons, etc.
+- Sprite previews
+- ~~Add a simple GUI~~
+- ~~Add multi-font system: DigiScript & Official Bandai fonts~~
+- ~~Text file drag and drop for bulk creating names (Win & macOS)~~
+
+<br />
+
+### **--v1.3.1--**
+Fixed the the upper margin for the DigiScript font as well as some spacing issues with the lowercase "g" letter. Generated names in DigiScript are slightly smaller font size but still legible.
+
+Future updates:
+- Add Agero font to font system
+- Update GUI buttons, etc.
+- Sprite previews
+- ~~Add a simple GUI~~
+- ~~Add multi-font system: DigiScript & Official Bandai fonts~~
+- ~~Text file drag and drop for bulk creating names (Win & macOS)~~
+
+<br />
 
 ### **--v1.3.0--**
 Updated font menu to show actual font lettering. Added a drag and drop text feature for bulk name generating, supporting both .txt and .rtf formats.
