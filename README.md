@@ -33,6 +33,20 @@ Download v1.x.x.zip and extract the files anywhere.
 
 ## **Release Notes:**
 
+### **--v1.4.0--**
+Added the Agero font to the font options. Added a preview feature that shows both a static preview name and a scrolling preview name.
+
+Future updates:
+
+- Update GUI, buttons and font, etc.
+- ~~Add a simple GUI~~
+- ~~Add multi-font system: DigiScript & Official Bandai fonts~~
+- ~~Text file drag and drop for bulk creating names (Win & macOS)~~
+- ~~Sprite previews~~
+- ~~Add Agero font to font system~~
+
+<br />
+
 ### **--v1.3.2--**
 Reverted the size of the DigiScript font while maintaining the top margin. Also fixed some spacing issues with the lowercase "g" letter. Generated names in DigiScript are back to the original font size.
 
@@ -60,7 +74,7 @@ Future updates:
 <br />
 
 ### **--v1.3.0--**
-Updated font menu to show actual font lettering. Added a drag and drop text feature for bulk name generating, supporting both .txt and .rtf formats.
+Updated font menu to show actual font lettering. Added a drag and drop text feature for bulk name generating, supporting both .txt and .rtf formats. Added a "show output folder" button.
 
 Future updates:
 - Add Agero font to font system
