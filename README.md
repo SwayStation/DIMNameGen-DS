@@ -2,11 +2,12 @@
 
 A utility to generate Bandai Vital Bracelet compatible name sprites.
 
-There are two fonts available at this time:
+There are three fonts available at this time:
 1. DigiScript - a reconstructed font created by me, based off of the official English stage names on the VB
 2. Official Bandai font - used in the localized versions of the DIMS
+3. Agero - a font used in English sprites in the Digimon Link project for the VB
 
-Running the utility by itself will bring up a prompt to type a name. Type in a name and hit enter or click submit. The generated name in the chosen font will be saved into an output folder created on the Desktop. (For Windows users who have their Desktop synced with OneDrive, the output folder will appear in the local Desktop located at C:/Users/~/Desktop.)
+Running the utility will bring up a prompt to type a name. Type in a name and hit enter or click submit. The generated name in the chosen font will be saved into an output folder created on the Desktop. (For Windows users who have their Desktop synced with OneDrive, the output folder will appear in the local Desktop located at C:/Users/~/Desktop.)
 
 This utility was written in python and compiled into a stand-alone Windows .exe app with pyinstaller and into a stand-alone macOS app with py2app. If using the standalone apps, Python3 and all its required libs are bundled. If you are running the script directly, you will need Python3, Pillow, and tkinterdnd2 installed.
 
