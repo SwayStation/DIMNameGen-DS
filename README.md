@@ -1,4 +1,4 @@
-# DIM Name Gen DS
+# DIMNameGen DS
 
 A utility to generate Bandai Vital Bracelet compatible name sprites.
 
