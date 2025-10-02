@@ -1,15 +1,17 @@
-# DIMNameGen DS
+# DIM Name Gen DS
 
-A utility to generate Bandai Vital Bracelet compatible name sprites.
+A utility to generate Bandai Vital Bracelet compatible name sprites. 
 
-There are three fonts available at this time:
+There are two fonts available at this time:
 1. DigiScript - a reconstructed font created by me, based off of the official English stage names on the VB
 2. Official Bandai font - used in the localized versions of the DIMS
 3. Agero - a font used in English name sprites in the Digimon Link project for the VB
 
-Running the utility will bring up a prompt to type a name. Type in a name and hit enter or click submit. The generated name in the chosen font will be saved into an output folder created on the Desktop. (For Windows users who have their Desktop synced with OneDrive, the output folder will appear in the local Desktop located at C:/Users/~/Desktop.)
+Running the utility will bring up a prompt to type a name. Type in a name and hit enter or click submit. The generated name in the chosen font will be saved into an output folder created on the Desktop. (For Windows users who have their Desktop synced with OneDrive, the output folder will appear in the local Desktop located at C:/Users/~/Desktop.) Clicking on the Output button will open that location to show the generated sprite names.
 
-This utility was written in python and compiled into a stand-alone Windows .exe app with pyinstaller and into a stand-alone macOS app with py2app. If using the standalone apps, Python3 and all its required libs are bundled. If you are running the script directly, you will need Python3, Pillow, and tkinterdnd2 installed.
+There is also a Preview button that when clicked will open up a Preview Window showing samples of a static name sprite and a scrolling name sprite. Users can select different backgrounds and Digimon sprites to preview along with their name sprites.
+
+This utility was written in python and compiled into a standalone Windows .exe app with pyinstaller, and compiled into a standalone macOS app with py2app. If using the standalone apps, Python3 and all its required libs are bundled. If you are running the script directly, you will need Python3, Pillow, and tkinterdnd2 installed.
 
 <br/>
 
@@ -30,9 +32,31 @@ Download v1.x.x.zip and extract the files anywhere.
 - On macOS, cd to DimNameGen-DS_v.1.x.x folder and type `python3 setup.py py2app`. You may get a "Cannot sign bundle" error. Sign the app with `codesign --force --deep --sign - "dist/DIMNameGen DS.app"`
 
 <br />
+
+## Credits:
+- Credits to Analogman151 (DocKlokMan). This project is largely based off of Analogman151's DIMNameGen. It has been completely rewritten in Python's Tkinter interface.
+- Credits to SeppuCrow for the Digimon sprites used in the Preview Window.
+
+<br />
 <br />
 
 ## **Release Notes:**
+
+### **--v1.4.1--**
+Fixed a bug where static preview names that were longer than 500 px wide were cut off by the edges of the Preview Window. A scrollbar was added for those extra long static preview name sprites.
+Alo added new backgrounds and Digimon sprites for the Preview Window.
+
+Future updates:
+
+- Update GUI, buttons and font, etc.
+- Load .bin files to view official backgrounds and Digimon Sprites along with preview name sprites
+- ~~Add a simple GUI~~
+- ~~Add multi-font system: DigiScript & Official Bandai fonts~~
+- ~~Text file drag and drop for bulk creating names (Win & macOS)~~
+- ~~Sprite previews~~
+- ~~Add Agero font to font system~~
+
+<br />
 
 ### **--v1.4.0--**
 Added the Agero font to the font options. Added a preview feature that shows both a static preview name and a scrolling preview name.
