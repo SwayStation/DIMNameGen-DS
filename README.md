@@ -44,7 +44,7 @@ Download v1.x.x.zip and extract the files anywhere.
 
 ### **--v1.4.1--**
 Fixed a bug where static preview names that were longer than 500 px wide were cut off by the edges of the Preview Window. A scrollbar was added for those extra long static preview name sprites.
-Alo added new backgrounds and Digimon sprites for the Preview Window.
+Also added new backgrounds and Digimon sprites for the Preview Window.
 
 Future updates:
 
