@@ -49,7 +49,7 @@ Alo added new backgrounds and Digimon sprites for the Preview Window.
 Future updates:
 
 - Update GUI, buttons and font, etc.
-- Load .bin files to view official backgrounds and Digimon Sprites along with preview name sprites
+- Load .bin files to view official backgrounds and Digimon sprites along with the preview name sprites
 - ~~Add a simple GUI~~
 - ~~Add multi-font system: DigiScript & Official Bandai fonts~~
 - ~~Text file drag and drop for bulk creating names (Win & macOS)~~
