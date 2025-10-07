@@ -9,7 +9,7 @@ There are two fonts available at this time:
 
 Running the utility will bring up a prompt to type a name. Type in a name and hit enter or click submit. The generated name in the chosen font will be saved into an output folder created on the Desktop. (For Windows users who have their Desktop synced with OneDrive, the output folder will appear in the local Desktop located at C:/Users/~/Desktop.) Clicking on the Output button will open that location to show the generated sprite names.
 
-DIMNameGen DS supports batch name generating through a drag and drop feature. Drag and drop a .txt or .rtf document with a list of names to generate names in bulk.
+DIMNameGen DS supports batch name generating through a drag and drop feature. Drag and drop a .txt or .rtf document with a list of names into the main window to generate names in bulk.
 
 Lastly, there is also a Preview button that when clicked will open up a Preview Window showing samples of a static name sprite and a scrolling name sprite. Users can select different backgrounds and Digimon sprites to preview along with their name sprites.
 
