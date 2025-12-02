@@ -15,7 +15,7 @@ Lastly, there is also a Preview button that when clicked will open up a Preview 
 
 This utility was written in python and compiled into a standalone Windows .exe app with pyinstaller, and compiled into a standalone macOS app with py2app. If using the standalone apps, Python3 and all its required libs are bundled. If you are running the script directly, you will need Python3, Pillow, and tkinterdnd2 installed.
 
-If running on macOS, on the initial launch, you may come across the system error message: *'“DIMNameGen DS” is damaged and can’t be opened. You should move it to the Trash.'* This problem comes up because of macOS's Gatekeeper security feature detects it as an app from an unidentified developer. To bypass it for this app, you can use Terminal to remove the quarantine flag. To do this, open Terminal and type the following command, replacing /path/to/app.app with the actual path to your app: 
+If running on macOS, on the initial launch, you may come across the system error message: *“DIMNameGen DS” is damaged and can’t be opened. You should move it to the Trash.* This problem comes up because of macOS's Gatekeeper security feature detects it as an app from an unidentified developer. To bypass it for this app, you can use Terminal to remove the quarantine flag. To do this, open Terminal and type the following command, replacing /path/to/app.app with the actual path to your app: 
 `xattr -d com.apple.quarantine /path/to/app.app`. Hit enter and you should be able to launch the app normally.
 
 <br/>
