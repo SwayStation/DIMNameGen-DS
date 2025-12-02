@@ -2,7 +2,7 @@
 
 A utility to generate Bandai Vital Bracelet compatible name sprites. 
 
-There are two fonts available at this time:
+There are three fonts available at this time:
 1. DigiScript - a reconstructed font created by me, based off of the official English stage names on the VB
 2. Official Bandai font - used in the localized versions of the DIMS
 3. Agero - a font used in English name sprites in the Digimon Link project for the VB
@@ -29,6 +29,7 @@ This utility was written in python and compiled into a standalone Windows .exe a
 <br />
 
 ## To compile:
+
 Download v1.x.x.zip and extract the files anywhere.
 - On Windows, cd to DimNameGen-DS_v.1.x.x folder and type `pyinstaller DIMNameGenDS.spec`.
 - On macOS, cd to DimNameGen-DS_v.1.x.x folder and type `python3 setup.py py2app`. You may get a "Cannot sign bundle" error. Sign the app with `codesign --force --deep --sign - "dist/DIMNameGen DS.app"`
@@ -36,6 +37,7 @@ Download v1.x.x.zip and extract the files anywhere.
 <br />
 
 ## Credits:
+
 - Credits to Analogman151 (DocKlokMan). This project is largely based off of Analogman151's DIMNameGen. It has been completely rewritten in Python's Tkinter interface.
 - Credits to SeppuCrow for the Digimon sprites used in the Preview Window.
 
