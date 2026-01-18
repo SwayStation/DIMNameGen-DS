@@ -41,8 +41,9 @@ Download v1.x.x.zip and extract the files anywhere.
 
 ## Credits:
 
-- Credits to Analogman151 (DocKlokMan). This project is largely based off of Analogman151's DIMNameGen. It has been completely rewritten in Python's Tkinter interface.
+- Credits to Analogman151 (DocKlokMan). This project is largely based off of Analogman151's DIMNameGen. It has been completely rewritten in Python's Tkinter interface to incorporate a GUI.
 - Credits to SeppuCrow for the Digimon sprites used in the Preview Window.
+- Credits to Jung D·niel for creating the Agero font.
 
 <br />
 <br />
