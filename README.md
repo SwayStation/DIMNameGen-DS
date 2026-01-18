@@ -5,7 +5,7 @@ A utility to generate Bandai Vital Bracelet compatible name sprites.
 There are three fonts available at this time:
 1. DigiScript - a reconstructed font created by me, based off of the official English stage names on the VB
 2. Official Bandai font - used in the localized versions of the DIMS
-3. Agero - a font used in English name sprites in the Digimon Link project for the VB
+3. Agero - a font used in English name sprites in the Digimon Link project for the VH
 
 Running the utility will bring up a prompt to type a name. Type in a name and hit enter or click submit. The generated name in the chosen font will be saved into an output folder created on the Desktop. (For Windows users who have their Desktop synced with OneDrive, the output folder will appear in the local Desktop located at C:/Users/~/Desktop.) Clicking on the Output button will open that location to show the generated sprite names.
 
